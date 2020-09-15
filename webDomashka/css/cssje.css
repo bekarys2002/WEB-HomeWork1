@@ -1,0 +1,176 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Montserrat', sans-serif;
+    color: 000;
+    font-size: 16px;
+}
+h1,h2{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.blue__text{
+    color: #507BFC;
+}
+.f_input{
+    border-color: #ECECEC;
+    border-block-end-color: #ECECEC;
+    border-block-start-color: #ECECEC;
+    border-radius: 5px;
+    width: 600px;
+    outline: none;
+}
+
+h2{
+    color: #B4B5BB;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+  margin: 0px;
+  padding: 0px 20px;
+}
+.profile{
+    width: 40px;
+    height: 40px;
+    border-radius:100% ;
+}
+.arrow{
+    width: 20px;
+    margin: 5px 0px 0px 0px;
+    height: 10px;
+}
+header{
+    margin-top: 20px;
+}
+.col-lg-3 .features{
+    align-items: center;
+    justify-content: flex-end;
+}
+.team{
+    background-color: #F5F7FA;
+}
+.rocket{
+    margin-right: 10px;
+        
+}
+.nnn{
+    width: 93%;
+    margin: 0 auto;
+}
+.nnn{
+    padding-top: 20px;
+}
+.kolledge h1{
+    margin: 0px;
+    padding: 0px
+}
+.kolledge h2{
+    margin-left: 0px;
+    padding: 0px;
+    margin-bottom: 25px;
+
+}
+
+.photo_v{
+    width: 200px;
+    height: 130px;
+    align-items: center;
+    border-radius: 100%;
+}
+
+
+.col-lg-12{
+    justify-content: space-between;
+    
+}
+
+.all{
+    margin: 0px;
+    font-size: 15px;
+    font-weight: 600;
+    border: 1px solid grey;
+    background-color: #507BFC;
+    padding: 5px 45px 5px 45px;
+    border-radius: 100px;
+    width: fit-content;
+    color: #fff;
+}
+.myteams{
+    margin: 0px;
+    font-size: 15px;
+    font-weight: 600;
+    border: 1px solid grey;
+    padding: 5px 25px 5px 25px;
+    border-radius: 100px;
+    width: fit-content;
+    color: grey;
+}
+
+.heart img{
+    width: 20px;
+    float: right;
+    margin: 15px 15px 0 0;
+    
+}
+.box{
+    background-color: #F5F7FA;
+}
+
+.accountphoto img{
+    width: 130px;
+    align-items: center;
+    margin: 60px 0 0 90px;
+}
+.feature__title{
+    text-align: center;
+    margin-top: 35px;
+}
+    
+.feature__text{
+    text-align: center;
+    margin-top: 27px;
+}
+
+.botom img{
+    width: 30px;
+    margin-left: 10px;
+}
+.botom{
+    align-items: center;
+    margin-bottom: 10px;
+}
+.asign{
+    margin-top: 52px;
+}
+
+.whitebox{
+    background-color: #fff;
+    margin: 50px 15px 5px 15px ;
+    padding: 0px;
+    width: 300px;
+}
+.ban{
+    width: 95%;
+    margin: 0 auto;
+}
+.ban .row{
+    justify-content: space-around;
+}
+.big{
+    width: 1000px ;
+    height: 100px;
+}
+.der{
+    margin-bottom: 20px;
+}
+
+@media screen and (max-width:992px){
+    .form .form__input{
+        width: 200px;
+    }
+}
